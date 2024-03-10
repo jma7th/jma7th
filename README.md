@@ -1,7 +1,7 @@
 - 👋 @jma7th
-- 📫 Estudante do 4º Semestre de Análise e Desenvolvimento de Sistemas.
+- 📫 Estudante do 5º Semestre de Análise e Desenvolvimento de Sistemas.
 - 👀 Instagram: @jmath__
-- 🌱 Angular e TypeScript
+- 🌱 C++. (Angular e TypeScript ocasionalmente)
 
 
 <!---
