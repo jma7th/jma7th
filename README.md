@@ -2,6 +2,7 @@
 - 📫 Tecnológo em Análise e Desenvolvimento de Sistemas.
 - 👾 Desenvolvedor de jogos independente
 - 📷 Instagram: @jma7th
+- 📫 LinkedIn: linkedin.com/in/jma7th/
 - 🕹️ Meus jogos: jma7th.itch.io
 - ✨ Outros projetos: @clubitstudio
 
